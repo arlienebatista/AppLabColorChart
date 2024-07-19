@@ -4,10 +4,8 @@ Com o App LAB Color Chart, você pode verificar o ponto de cor no espaço de cor
 
 Android versão: v1.0 
 
-<img src="tela1.jpg" alt="Entrada de Dados" width="300"/>
-
-![Entrada de Dados](/tela1.jpg)
-
-![Info](/tela2.jpg)
-
-![Gráfico](/tela3.jpg)
+<p align="center">
+  <img src="tela1.jpg" alt="Entrada de Dados" width="200"/>
+  <img src="tela2.jpg" alt="Info" width="200"/>
+  <img src="tela3.jpg" alt="Gráfico" width="200"/>
+</p>
