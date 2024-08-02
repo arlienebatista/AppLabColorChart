@@ -3,6 +3,7 @@
 Com o App LAB Color Chart, você pode verificar o ponto de cor no espaço de cores CIELab.
 
 Dispositivos: Android
+
 Versão: 1.0 
 
 <p align="center">
